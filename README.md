@@ -5,8 +5,8 @@
 
 
 # Как запускать/открывать
-SQL: запускайте .sql в SQL‑клиенте. В решениях встречается PostgreSQL‑синтаксис (::, FILTER, PERCENTILE_DISC).
+* SQL: запускайте .sql в SQL‑клиенте. В решениях встречается PostgreSQL‑синтаксис (::, FILTER, PERCENTILE_DISC).
 
-DataLens: ссылки на дашборды указаны выше (доступ зависит от прав/аккаунта).
+* DataLens: ссылки на дашборды указаны выше (доступ зависит от прав/аккаунта).
 
-Python: откройте .ipynb в Jupyter и выполните ячейки по порядку (обычно используются pandas, matplotlib, seaborn, scipy, иногда statsmodels/phik).
+* Python: откройте .ipynb в Jupyter и выполните ячейки по порядку (обычно используются pandas, matplotlib, seaborn, scipy, иногда statsmodels/phik).
